@@ -8,10 +8,15 @@ Las imagenes modeladas las podras encontrar en un archivo dentro del repositorio
 
 Assets utilizados:
 
- - Arbol:creado por mi![arbol](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/arbol.PNG)
+ - Arbol:creado por mi
+ ![arbol](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/arbol.PNG)
  - Auto:creado por mi
+ ![auto](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/carro.PNG)
  - Moneda:creada por mi 
+ ![moneda](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/moneda.PNG)
  - Rocas:el creador  [ SnowFiend Studios](https://assetstore.unity.com/publishers/21946) El link del asset es: [link](https://assetstore.unity.com/packages/3d/environments/lowpoly-rocks-137970)
+ ![piedra](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/piedra.PNG)
 
 Textura:
 - La textura del pasto fue creado por [SirMishMash](https://assetstore.unity.com/publishers/51508) EL link del asset es: [link](https://assetstore.unity.com/packages/3d/environments/smm-stylized-grass-184975)
+![pasto](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/pasto.PNG)

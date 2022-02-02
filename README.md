@@ -8,7 +8,7 @@ Las imagenes modeladas las podras encontrar en un archivo dentro del repositorio
 
 Assets utilizados:
 
- - Arbol:creado por mi
+ - Arbol:creado por mi![arbol](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/arbol.PNG)
  - Auto:creado por mi
  - Moneda:creada por mi 
  - Rocas:el creador  [ SnowFiend Studios](https://assetstore.unity.com/publishers/21946) El link del asset es: [link](https://assetstore.unity.com/packages/3d/environments/lowpoly-rocks-137970)

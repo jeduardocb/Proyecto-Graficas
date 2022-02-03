@@ -23,7 +23,7 @@ Textura:
 - La textura del pasto fue creado por [SirMishMash](https://assetstore.unity.com/publishers/51508) EL link del asset es: [link](https://assetstore.unity.com/packages/3d/environments/smm-stylized-grass-184975)
 ![pasto](https://github.com/jeduardocb/Proyecto-Graficas/blob/main/imagenes%20de%20los%20objetos/pasto.PNG)
 
-Tambien las rocas tienen una textura, el cual el asset descargado ya la incluia
+También las rocas tienen una textura, el cual el asset descargado ya la incluia
 
 Sombras:
 De dia:
